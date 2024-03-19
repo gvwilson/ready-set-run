@@ -6,6 +6,8 @@ To contribute,
 please create a pull request that creates a directory `tool-userid` (e.g., `python-gvwilson`)
 with a self-contained example
 and an `index.md` file that explains how to run it.
+If you used any sort of AI to (help) craft your solution,
+please mention it in your notes.
 
 Please see `LICENSE.md` for licensing and `CODE_OF_CONDUCT.md` for community standards.
 
